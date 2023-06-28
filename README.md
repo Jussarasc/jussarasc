@@ -1,9 +1,23 @@
-### Hi there 👋
+###Olá eu sou a Jussara 🦋 👋
 
-<!--
-**Jussarasc/jussarasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 💫 About Me:
-Atualmente trabalho na Media.Monks Brasil,<br>Technologys Analisty e afroempreendedora<br>São Paulo - Cohab brasilandia -Z.Norte<br>São Paulina<br>Leonina 
+
+Atualmente trabalho na Media.Monks Brasil,
+<br>Technologys Analisty e afroempreendedora
+<br>São Paulo - Cohab brasilandia -Z.Norte<br>
+<br>⚽São Paulina
+<br>🦁Leonina 
+<br>🌻 Ela/dela 
+<!--  for devicon plain version -->
+<i class="devicon-devicon-plain"></i>
+
+<!--  for devicon plain version with wordmark -->
+<i class="devicon-devicon-plain-wordmark"></i>
+
+<!--  for devicon plain version colored with devicon main color -->
+<i class="devicon-devicon-plain colored"></i>
+
+<!--  for devicon plain version with wordmark colored with devicon main color -->
+<i class="devicon-devicon-plain-wordmark colored"></i>
 
 
 ## 🌐 Socials:
